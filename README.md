@@ -32,7 +32,14 @@ For more information, see [http://sufficientlysecure.org/android/](http://suffic
    version number to match the version of »Android Support Library« you installed
    using the SDK Manager
 
-## Build with Android Studio
+## Build with Modern Android Studio
+
+1. Ensure you have the latest version of Android Studio installed.
+2. Open Android Studio and select "Open an existing project".
+3. Navigate to the root directory of the project and select it.
+4. Android Studio will automatically sync the project and download the necessary dependencies.
+5. Once the sync is complete, you can build the project by selecting "Build" > "Make Project" from the menu.
+6. To run the project, connect an Android device or start an emulator, then select "Run" > "Run 'app'" from the menu.
 
 1. Start Android Studio
 2. Choose the »Import project« option.
