@@ -8,3 +8,4 @@ gradle.properties
 .idea
 local.properties
 *.iml
+.aider*
